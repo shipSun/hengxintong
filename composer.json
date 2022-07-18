@@ -1,0 +1,20 @@
+{
+  "name": "ship-sun/hengxintong",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ship",
+      "email": "54399860@qq.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "HengXinTong\\": "src/"
+    }
+  }
+}
